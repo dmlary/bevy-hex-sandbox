@@ -1,0 +1,636 @@
+{
+    "version": 1,
+    "name": "kenney.nl Hexagon Tileset",
+    "tiles": [
+        (
+            id: 0,
+            name: "building_cabin",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_cabin.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 1,
+            name: "building_castle",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_castle.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 2,
+            name: "building_dock",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_dock.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 3,
+            name: "building_farm",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_farm.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 4,
+            name: "building_house",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_house.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 5,
+            name: "building_market",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_market.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 6,
+            name: "building_mill",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_mill.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 7,
+            name: "building_mine",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_mine.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 9,
+            name: "building_sheep",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_sheep.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 10,
+            name: "building_smelter",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_smelter.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 11,
+            name: "building_tower",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_tower.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 12,
+            name: "building_village",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_village.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 13,
+            name: "building_wall",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_wall.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 14,
+            name: "building_water",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/building_water.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 15,
+            name: "dirt_lumber",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/dirt_lumber.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 16,
+            name: "dirt",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/dirt.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 17,
+            name: "grass_forest",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/grass_forest.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 18,
+            name: "grass_hill",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/grass_hill.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 19,
+            name: "grass",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/grass.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 50,
+            name: "stone_hill",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/stone_hill.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 51,
+            name: "stone_mountain",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/stone_mountain.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 52,
+            name: "stone_rocks",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/stone_rocks.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 62,
+            name: "water_rocks",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/water_rocks.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 63,
+            name: "water",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/water.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 20,
+            name: "path_corner",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_corner.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 21,
+            name: "path_cornerSharp",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_cornerSharp.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 22,
+            name: "path_crossing",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_crossing.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 23,
+            name: "path_end",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_end.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 24,
+            name: "path_intersectionA",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionA.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 25,
+            name: "path_intersectionB",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionB.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 26,
+            name: "path_intersectionC",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionC.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 27,
+            name: "path_intersectionD",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionD.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 28,
+            name: "path_intersectionE",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionE.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 29,
+            name: "path_intersectionF",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionF.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 30,
+            name: "path_intersectionG",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionG.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 31,
+            name: "path_intersectionH",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_intersectionH.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 32,
+            name: "path_start",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_start.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 33,
+            name: "path_straight",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/path_straight.glb",
+            transform: (
+                translation: (0.0, 0.37, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 34,
+            name: "river_corner",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_corner.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 35,
+            name: "river_cornerSharp",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_cornerSharp.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 36,
+            name: "river_crossing",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_crossing.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 37,
+            name: "river_end",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_end.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 38,
+            name: "river_intersectionA",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionA.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 39,
+            name: "river_intersectionB",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionB.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 40,
+            name: "river_intersectionC",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionC.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 41,
+            name: "river_intersectionD",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionD.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 42,
+            name: "river_intersectionE",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionE.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 43,
+            name: "river_intersectionF",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionF.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 44,
+            name: "river_intersectionG",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionG.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 45,
+            name: "river_intersectionH",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_intersectionH.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 46,
+            name: "river_start",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_start.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 47,
+            name: "river_straight",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/river_straight.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 48,
+            name: "sand_rocks",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/sand_rocks.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 49,
+            name: "sand",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/sand.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 53,
+            name: "stone",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/stone.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 54,
+            name: "unit_boat",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/unit_boat.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 55,
+            name: "unit_house",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/unit_house.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 56,
+            name: "unit_houseLarge",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/unit_houseLarge.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 57,
+            name: "unit_mill",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/unit_mill.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 58,
+            name: "unit_tower",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/unit_tower.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 59,
+            name: "unit_tree",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/unit_tree.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 60,
+            name: "unit_wallTower",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/unit_wallTower.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+        (
+            id: 61,
+            name: "water_island",
+            path: "/Users/dmlary/src/bevy/hex-sandbox/assets/kenney_hexagon-kit/water_island.glb",
+            transform: (
+                translation: (0.0, 0.0, 0.0),
+                rotation: (0.0, 0.25477076, 0.0, 0.9670015),
+                scale: (1.74, 1.74, 1.74),
+            ),
+        ),
+    ],
+}
