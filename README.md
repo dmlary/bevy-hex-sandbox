@@ -43,3 +43,16 @@ Capabilities/Functionality:
 ## Assets
 Assets included in this project were created by Kenney, and available at
 https://kenney.nl/assets/hexagon-kit
+
+## Usage
+* File -> New Map
+* In the Tileset panel, click the "..." button and select "Import Tileset"
+    * Note: bug here, may have to click it multiple times
+* Select "kenney.tileset.ron"
+* click on tile then click on map
+
+## Controls
+* Q/E: Rotate currently selected tile
+* `[` / `]`: Rotate camera
+* Scroll wheel: zoom in/out
+* Space + mouse move: pan camera
