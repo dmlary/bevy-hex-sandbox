@@ -1,6 +1,12 @@
 # bevy-hex-sandbox
 Example implementation of a 3d hexagon tile-based map editor using bevy v0.10.
 
+
+
+https://github.com/dmlary/bevy-hex-sandbox/assets/857742/fb22046f-db27-445c-bee2-204e40183c64
+
+
+
 **This is not a maintained project.**
 
 Instead, this is a series of example implementations of how a series of
